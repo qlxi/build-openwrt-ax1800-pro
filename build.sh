@@ -7,7 +7,7 @@ config=$3   #配置文件
 
 
 if [ ! -n "$repo" ]; then
-    repo=https://github.com/JiaY-shi/owrt.git
+    repo=https://github.com/JiaY-shi/openwrt.git
 fi
 
 if [ ! -n "$branch" ]; then
